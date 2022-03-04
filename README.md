@@ -7,12 +7,12 @@ Objective :
 To improve the effectiveness of marketing and sales tactics using the customer data that is accumulated with the enterprise during the sales transaction.
 
 Content :
-•Introduction
-•Objective of the analysis
-•Importing Python Libraries
-•Importing Data and Processing
-•Exploratory Data Analysis
-•Applying Apriori Algorithm & Result
-•Conclusion
+• Introduction
+• Objective of the analysis
+• Importing Python Libraries
+• Importing Data and Processing
+• Exploratory Data Analysis
+• Applying Apriori Algorithm & Result
+• Conclusion
 
 To check out my notebook, please click [here](https://github.com/SameniNarayanRao/Machine-Learning-Projects/blob/master/Market%20Basket%20Analysis%20.ipynb)
